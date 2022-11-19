@@ -1,0 +1,5 @@
+git add -->給git管理
+
+commit =>做出一個版本來 commit id
+
+git 管理的是動作
