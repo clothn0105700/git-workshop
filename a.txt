@@ -2,3 +2,5 @@
 這是第三個新功能
 這是第四個新功能 git add -->git commit -am "描述" (不用add 直接可以commit)
 這是第五個新功能
+
+aaaaaaaaa
